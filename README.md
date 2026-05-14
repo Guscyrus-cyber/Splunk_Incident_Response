@@ -5,6 +5,8 @@ The purpose of this lab is to simulate a real-world Tier 1 and Tier 2 SOC invest
 
 This lab demonstrates how Splunk can be used not only for log aggregation and search, but also for incident response operations including detection, triage, threat hunting, containment support, and security reporting. The overall workflow reflects common SOC procedures used in enterprise environments where analysts investigate security alerts, identify malicious activity, document findings, and support mitigation efforts through centralized visibility and correlation of security events.
 
+Refer to the images in the repository for screenshots, dashboards, Splunk queries, alerts, and investigation results.
+
 Step 1 — Confirm Incident Dataset & Establish Investigation Baseline, Validate Total Event Volume, Identify Authentication-Related Security Activity, and Identify Sourcetypes and Host Activity\
 \
 Using Query for “Confirm Incident Dataset”\
